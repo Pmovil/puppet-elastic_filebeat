@@ -1,6 +1,6 @@
 #### Deprecation warning
 Since [pcfens](https://forge.puppetlabs.com/pcfens/filebeat) is more active, we will try to merge features from here the there.
-If there is something that we need to be implemented there, that is implemented here, contribute on isseu #1
+If there is something that we need to be implemented there, that is implemented here, contribute [here]( https://github.com/Pmovil/puppet-elastic_filebeat/issues/1)
 
 #### Table of Contents
 
