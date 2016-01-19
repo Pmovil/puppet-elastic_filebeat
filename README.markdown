@@ -1,3 +1,7 @@
+#### Deprecation warning
+Since [pcfens](https://forge.puppetlabs.com/pcfens/filebeat) is more active, we will try to merge features from here the there.
+If there is something that we need to be implemented there, that is implemented here, contribute on isseu #1
+
 #### Table of Contents
 
 1. [Overview](#overview)
